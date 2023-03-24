@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c2c2739.chunk.css",
+    "main.js": "/static/js/main.4936f1bb.chunk.js",
+    "main.js.map": "/static/js/main.4936f1bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8fc294bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8fc294bf.js.map",
+    "static/js/2.80ed9b27.chunk.js": "/static/js/2.80ed9b27.chunk.js",
+    "static/js/2.80ed9b27.chunk.js.map": "/static/js/2.80ed9b27.chunk.js.map",
+    "static/js/3.459fa90c.chunk.js": "/static/js/3.459fa90c.chunk.js",
+    "static/js/3.459fa90c.chunk.js.map": "/static/js/3.459fa90c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5c2c2739.chunk.css.map": "/static/css/main.5c2c2739.chunk.css.map",
+    "static/js/2.80ed9b27.chunk.js.LICENSE.txt": "/static/js/2.80ed9b27.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bike3.ac2ba9fa.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fc294bf.js",
+    "static/js/2.80ed9b27.chunk.js",
+    "static/css/main.5c2c2739.chunk.css",
+    "static/js/main.4936f1bb.chunk.js"
+  ]
+}
